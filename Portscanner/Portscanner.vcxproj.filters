@@ -18,8 +18,5 @@
     <ClCompile Include="Scandeportas.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="Arquivo.cpp">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
