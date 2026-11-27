@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Scandeportas.cpp">
+    <ClCompile Include="Scandeportas.c">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
